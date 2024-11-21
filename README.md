@@ -2,6 +2,7 @@
 Create a descriptive analytics to create a customer profile for each AeroFit treadmill product by developing appropriate tables and charts. For each AeroFit treadmill product, construct two-way contingency tables and compute all conditional and marginal probabilities along with their insights/impact on the business
 
 #Insights: 
+
 ##KP281
 1) KP281 is easily affordable entry level product, which is also the maximum selling product.
 2) KP281 is the most popular product among the entry level customers.
