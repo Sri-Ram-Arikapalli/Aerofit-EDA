@@ -22,3 +22,9 @@ Create a descriptive analytics to create a customer profile for each AeroFit tre
 4) Customer walk/run average 120 to 200 or more miles per week on his product.
 5) Customers use 4 to 5 times a week at least.
 6) Female Customers who are running average 180 miles (extensive exercise) , are using product KP781, which is higher than Male average using same product.
+
+## Libraries Used:
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
